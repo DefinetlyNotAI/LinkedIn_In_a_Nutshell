@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-in-a-nutshell",
+  "version": "1.0.0",
+  "description": "Transforms LinkedIn into LinkedIn",
+  "private": true,
+  "devDependencies":{
+    "@types/chrome":"^0.1.37"
+  }
+}

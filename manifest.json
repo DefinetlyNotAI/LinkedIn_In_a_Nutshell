@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn In a Nutshell",
+  "version": "1.0.0",
+  "description": "Transforms LinkedIn into LinkedIn",
+  "content_scripts": [
+    {
+      "matches": ["https://*.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["logos/*.png"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
