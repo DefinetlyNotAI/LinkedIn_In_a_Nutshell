@@ -33,6 +33,10 @@ Welcome to the future of networking. Where we summarized the slum of Corporate i
 Open LinkedIn. Watch as your feed, sidebars, and even tiny icons transform into a fully AI-fied experience. 
 Every new post you scroll into existence automatically gets the magic treatment.
 
+Here is an example of how it would look like:
+
+https://github.com/user-attachments/assets/2de3aad6-c30c-489d-a01c-dcbba5e415f8
+
 #### **Warnings**
 
 * Inline SVGs are left alone because some UI elements kinda need to stay functional.
